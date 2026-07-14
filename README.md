@@ -39,10 +39,3 @@ I am a passionate programmer focused on **retro-emulation** and **game developme
 
 ---
 *Mainly developing for [html.edit](https://htmledit.squarefree.com/)
-## My Contribution Graph 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com">
-  <img alt="GitHub Snake Animation" src="https://github.com">
-</picture>
