@@ -18,6 +18,7 @@ I am a passionate programmer focused on **retro-emulation** and **game developme
 *   **[Pac-Man](https://github.com/RXVSSIANXW23/pac-man):** High-performance clone with grid-based collision and state-machine ghost AI.
 *   **[Tetris](https://github.com/RXVSSIANXW23/tetris):** Advanced 2D game with a simulated C++ data storage engine.
 *   **[Brick Breaker](https://github.com/RXVSSIANXW23/brick-breaker-game):** Cross-platform implementation (C++ terminal and HTML5/JS).
+*   **[Mini Hangman Game](https://github.com/RXVSSIANXW23/mini-hangman-game):** Classic word-guessing game with modular logic and clean UI.
 *   **[Spaceships](https://github.com/RXVSSIANXW23/spaceships):** 2D space shooter with hit-box collision systems.
 *   **[Q-Bert](https://github.com/RXVSSIANXW23/q-bert):** Java-based recreation of the classic 1982 isometric arcade game.
 *   **[Retro Froggy Jumps](https://github.com/RXVSSIANXW23/retro-froggy-jumps):** Fast-paced arcade action built in Java.
@@ -38,4 +39,4 @@ I am a passionate programmer focused on **retro-emulation** and **game developme
 *   **[Advanced Calculator](https://github.com/RXVSSIANXW23/phyton-advanced-calculator):** Python GUI/CLI calculator with history.
 
 ---
-*Mainly developing for [html.edit](https://htmledit.squarefree.com/)
+*Mainly developing for [html.edit](https://htmledit.squarefree.com/)*
