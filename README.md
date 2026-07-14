@@ -38,4 +38,7 @@ I am a passionate programmer focused on **retro-emulation** and **game developme
 *   **[Advanced Calculator](https://github.com/RXVSSIANXW23/phyton-advanced-calculator):** Python GUI/CLI calculator with history.
 
 ---
-*Mainly developing for [html.edit](https://htmledit.squarefree.com/)*
+*Mainly developing for [html.edit](https://htmledit.squarefree.com/)
+## My Contribution Graph 🐍
+
+![GitHub Snake Animation](https://githubusercontent.com)
