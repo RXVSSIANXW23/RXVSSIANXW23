@@ -26,6 +26,7 @@ I am a passionate programmer focused on **retro-emulation** and **game developme
 *   **[Pong](https://github.com/RXVSSIANXW23/pong-game):** Dual-language physics-based implementation.
 *   **[Flappy Bird](https://github.com/RXVSSIANXW23/flapy-bird-C-):** Arcade physics clone for browser emulation.
 *   **[Minecraft](https://github.com/RXVSSIANXW23/Minecraft):** Lightweight 3D rendering engine in Java.
+*   ** [Formula 1 Game](https://github.com/RXVSSIANXW23/formula-1-game) : ** High-speed racing simulator developed with collaborators, featuring responsive arcade controls and track navigation
 
 #### 🖥️ Operating Systems & Emulation
 *   **[Windows XP OS](https://github.com/RXVSSIANXW23/Windows-xp-operating-system):** A functional, XP-inspired web OS with interactive window manager.
