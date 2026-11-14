@@ -1,6 +1,6 @@
 # Hi there, I'm RXVSSIANXW23! 👋
 
-I am a passionate programmer focused on **retro-emulation** and **game development**. I enjoy bringing classic systems and arcade experiences to the browser, working primarily with **Python, C++, and Java**.
+I am a passionate programmer focused on **retro-emulation** and **game development**. I enjoy bringing classic systems and arcade experiences to the browser, working primarily with **Python, C++, and Java**. (I also make proyects in blender)
 
 ---
 
